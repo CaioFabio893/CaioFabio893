@@ -1,115 +1,103 @@
 <p align="center">
-  <img src="banner-caio.png" alt="Caio Fábio — Desenvolvimento web com Java, Spring Boot, React, TypeScript e Go" width="100%" />
+  <img src="banner-caio.png" alt="Caio Fábio — Desenvolvimento web" width="100%" />
 </p>
+
+<p align="center"><strong>Java & Spring Boot · React & TypeScript · Go</strong><br />
+Aplicações web, APIs e soluções para problemas reais.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caio-fabio-souza"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/CaioFabio893?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore os projetos" /></a>
+  <a href="https://www.linkedin.com/in/caio-fabio-souza"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/CaioFabio893?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Explore_o_portfólio-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore o portfólio" /></a>
 </p>
 
-## Código que resolve problemas reais
+## Sobre mim
 
-Sou **Caio Fábio**. Desenvolvo aplicações web e APIs, do monitoramento ambiental à gestão de treinos e dietas. Meu portfólio reúne projetos com autenticação, persistência, interfaces web e estudos de backend com Java e Spring Boot.
+Sou **Caio Fábio**. Desenvolvo aplicações web e APIs, com projetos de monitoramento ambiental, gestão de treinos e nutrição, além de estudos de backend com Java e Spring Boot. Nos projetos, trabalho com autenticação, persistência, interfaces web e integração entre serviços.
 
-## Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,ts,js,react,nextjs,firebase,postgres,mongodb,git&perline=11" alt="Java, Spring, Go, TypeScript, JavaScript, React, Next.js, Firebase, PostgreSQL, MongoDB e Git" />
-</p>
-
-| Backend | Frontend | Dados e infraestrutura | Qualidade |
-| --- | --- | --- | --- |
-| Java · Spring Boot · Go | React · Next.js · TypeScript | Firebase · PostgreSQL · MongoDB · Cloud Run | JUnit · Mockito · Vitest |
-
-## Projetos em destaque
-
-### 01 · Monitoramento de tartarugas
-
-**Tecnologia aplicada à conservação ambiental.** Aplicação para registrar ninhos, transferências, visitas e eclosões, inclusive em campo sem internet.
-
-[![Tela de relatórios do monitoramento de tartarugas](https://raw.githubusercontent.com/CaioFabio893/app-tartaruga/master/docs/images/app-relatorios.jpg)](https://github.com/CaioFabio893/app-tartaruga)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-Offline--first-0D9488?style=flat-square)
-
-- Fila persistente offline, sincronização e tratamento explícito de conflitos.
-- Mapas, controle de acesso e relatórios em PDF, Excel, JSON e CSV.
-- Captura acima com dados fictícios do modo de treino.
-
-**[Código e documentação →](https://github.com/CaioFabio893/app-tartaruga)** · **[Aplicação →](https://monitoramento-de-tartarugas.web.app)**
-
-### 02 · Treinos e nutrição
-
-**Uma plataforma para organizar a rotina de treino.** Área administrativa para alunos, exercícios, programas, treinos e dietas; área do aluno para consultar os conteúdos vinculados à sua conta.
-
-[![Interface de treinos da plataforma](https://raw.githubusercontent.com/CaioFabio893/App-treino-nutricao/main/docs/screenshots/student-treinos.png)](https://github.com/CaioFabio893/App-treino-nutricao)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-- Frontend e API separados, com autenticação pelo Firebase.
-- Controle de acesso por perfil e dados persistidos no Firestore.
-- Captura publicada na documentação do repositório; a interface pode variar conforme a versão.
-
-**[Código e documentação →](https://github.com/CaioFabio893/App-treino-nutricao)**
-
-## Laboratório Java e Spring Boot
+## Projetos selecionados
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/CaioFabio893/app-tartaruga"><img src="projeto-tartarugas.svg" width="100%" alt="Monitoramento ambiental — TypeScript, React e Firebase" /></a>
 
-### DSCatalog
-Catálogo de produtos com API Java e interface React. Filtros, paginação, administração e autenticação OAuth2/JWT.
+Registro de ninhos, visitas, transferências e eclosões em campo. **Offline-first**, mapas e exportação de relatórios.
 
-**Java · Spring Boot · Spring Security · JPA · React**
-
-[Explorar projeto →](https://github.com/CaioFabio893/DSCatalog)
+**[Repositório →](https://github.com/CaioFabio893/app-tartaruga)** · **[Aplicação →](https://monitoramento-de-tartarugas.web.app)**
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/CaioFabio893/App-treino-nutricao"><img src="projeto-treinos.svg" width="100%" alt="Treinos e nutrição — Go, Next.js e Firestore" /></a>
 
-### DSCommerce
-Projeto de estudo de API de e-commerce: produtos, categorias, pedidos e autorização por perfil.
+Gestão de alunos, programas, treinos e dietas. **Frontend e API separados**, autenticação e acesso por perfil.
 
-**Java · Spring Boot · Spring Security · JPA**
-
-[Explorar projeto →](https://github.com/CaioFabio893/DSCommerce)
+**[Repositório →](https://github.com/CaioFabio893/App-treino-nutricao)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/CaioFabio893/DSCatalog"><img src="projeto-catalogo.svg" width="100%" alt="DSCatalog — Java, Spring Boot e React" /></a>
 
-### Web Services com JPA
-Estudo de APIs REST, CRUD e relacionamentos entre entidades com persistência relacional.
+Catálogo com filtros, paginação e administração. **OAuth2/JWT**, persistência JPA e testes em camadas.
 
-**Java · Spring Boot · JPA · H2**
-
-[Explorar projeto →](https://github.com/CaioFabio893/webServices-springboot-jpa)
+**[Repositório →](https://github.com/CaioFabio893/DSCatalog)**
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/CaioFabio893/DSCommerce"><img src="projeto-commerce.svg" width="100%" alt="DSCommerce — Java, Spring Boot e JPA" /></a>
 
-### Spring Boot com MongoDB
-Estudo de APIs e operações CRUD com persistência NoSQL em aplicações Java.
+Estudo de API de e-commerce com produtos, categorias e pedidos. **Autorização por perfil** e modelagem relacional.
 
-**Java · Spring Boot · Spring Data MongoDB**
-
-[Explorar projeto →](https://github.com/CaioFabio893/workshop-spring-boot-mongodb)
+**[Repositório →](https://github.com/CaioFabio893/DSCommerce)**
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><strong>Ver os projetos em funcionamento — capturas de tela</strong></summary>
+
+### Monitoramento ambiental
+
+[![Relatórios com dados fictícios do modo de treino](https://raw.githubusercontent.com/CaioFabio893/app-tartaruga/master/docs/images/app-relatorios.jpg)](https://github.com/CaioFabio893/app-tartaruga)
+
+*Dados fictícios do modo de treino.*
+
+### Treinos e nutrição
+
+[![Interface de treinos publicada na documentação](https://raw.githubusercontent.com/CaioFabio893/App-treino-nutricao/main/docs/screenshots/student-treinos.png)](https://github.com/CaioFabio893/App-treino-nutricao)
+
+*Captura da documentação; a interface pode variar conforme a versão.*
+
+</details>
+
+## Minha stack
+
+<table>
+<tr><td width="50%" align="center"><strong>Backend</strong><br /><br /><img src="https://skillicons.dev/icons?i=java,spring,go" height="44" alt="Java, Spring Boot e Go" /></td><td width="50%" align="center"><strong>Frontend</strong><br /><br /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" height="44" alt="TypeScript, JavaScript, React e Next.js" /></td></tr>
+<tr><td align="center"><strong>Dados</strong><br /><br /><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" height="44" alt="PostgreSQL, MongoDB e Firebase" /></td><td align="center"><strong>Ferramentas e qualidade</strong><br /><br /><img src="https://skillicons.dev/icons?i=git,github,vitest" height="44" alt="Git, GitHub e Vitest" /><br />JUnit · Mockito · testes de integração</td></tr>
+</table>
+
+## Portfólio em números
+
+<img src="portfolio-dados.svg" width="100%" alt="58 repositórios públicos: 56 originais e 2 forks. Entre os originais, 33 têm Java como linguagem principal. Dados de 10/10/2026." />
+
+<sub>Retrato dos repositórios públicos em 10/10/2026. Linguagens por classificação principal do GitHub, excluindo forks; os números não medem proficiência e não são atualizados automaticamente.</sub>
+
+<details>
+<summary><strong>Mais estudos de backend</strong></summary>
+
+| Projeto | Objetivo | Tecnologias |
+| --- | --- | --- |
+| [Web Services com JPA](https://github.com/CaioFabio893/webServices-springboot-jpa) | CRUD, APIs REST e relacionamentos entre entidades | Java · Spring Boot · JPA · H2 |
+| [Spring Boot com MongoDB](https://github.com/CaioFabio893/workshop-spring-boot-mongodb) | APIs e persistência NoSQL | Java · Spring Boot · MongoDB |
+
+</details>
 
 ---
 
 <p align="center"><strong>Vamos conversar sobre desenvolvimento?</strong><br />
 <a href="https://www.linkedin.com/in/caio-fabio-souza">LinkedIn</a> · <a href="https://github.com/CaioFabio893?tab=repositories">Todos os repositórios</a></p>
 
-<sub>As tecnologias acima estão presentes nos projetos do portfólio. Quando há uso de IA no desenvolvimento, os detalhes estão registrados na documentação dos respectivos repositórios.</sub>
-
+<sub>As tecnologias apresentadas estão presentes no portfólio. O uso de IA, quando aplicável, está registrado na documentação dos respectivos projetos.</sub>

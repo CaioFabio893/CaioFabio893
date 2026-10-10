@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Dados do portfólio público em 10 de outubro de 2026">
+<rect x="1" y="1" width="1198" height="308" rx="20" fill="#0b192b" stroke="#254358"/>
+<text x="34" y="43" fill="#5eead4" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">REPOSITÓRIOS PÚBLICOS / 10.10.2026</text>
+<text x="36" y="126" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="62" font-weight="700">58</text>
+<text x="36" y="158" fill="#a8bfd3" font-family="Arial,sans-serif" font-size="20">públicos</text>
+<text x="220" y="126" fill="#67e8f9" font-family="Arial,sans-serif" font-size="62" font-weight="700">56</text>
+<text x="220" y="158" fill="#a8bfd3" font-family="Arial,sans-serif" font-size="20">originais</text>
+<text x="405" y="126" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="62" font-weight="700">2</text>
+<text x="405" y="158" fill="#a8bfd3" font-family="Arial,sans-serif" font-size="20">forks</text>
+<path d="M550 70v180" stroke="#254358"/>
+<text x="590" y="83" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="21" font-weight="700">Linguagem principal · originais</text>
+<rect x="590" y="111" width="323" height="22" rx="3" fill="#f89820"/><rect x="913" y="111" width="59" height="22" fill="#e34f26"/><rect x="972" y="111" width="39" height="22" fill="#f7df1e"/><rect x="1011" y="111" width="29" height="22" fill="#3178c6"/><rect x="1040" y="111" width="29" height="22" fill="#a855f7"/><rect x="1069" y="111" width="69" height="22" rx="3" fill="#526175"/>
+<text x="590" y="175" fill="#f89820" font-family="Arial,sans-serif" font-size="19">Java 33</text><text x="785" y="175" fill="#e34f26" font-family="Arial,sans-serif" font-size="19">HTML 6</text><text x="965" y="175" fill="#f7df1e" font-family="Arial,sans-serif" font-size="19">JavaScript 4</text>
+<text x="590" y="211" fill="#67a9ef" font-family="Arial,sans-serif" font-size="19">TypeScript 3</text><text x="785" y="211" fill="#c084fc" font-family="Arial,sans-serif" font-size="19">CSS 3</text><text x="965" y="211" fill="#a8bfd3" font-family="Arial,sans-serif" font-size="19">Sem classificação 7</text>
+<text x="36" y="272" fill="#7f99b0" font-family="Arial,sans-serif" font-size="16">Fonte: GitHub · contagem de repositórios, sem avaliação de proficiência.</text>
+</svg>
