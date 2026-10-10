@@ -2,6 +2,10 @@
   <img src="banner-caio.png" alt="Caio Fábio — desenvolvimento de aplicações e APIs" width="100%" />
 </p>
 
+<p align="center">
+<img src="terminal-animado.svg" width="100%" alt="Terminal animado — Java, Spring Boot e Go conectando código, APIs e dados" /><br /><br />
+<img src="https://skillicons.dev/icons?i=java,spring,go,react,ts&amp;theme=dark" height="42" alt="Java, Spring Boot, Go, React e TypeScript" />
+</p>
 <p align="center"><strong>BACKEND · JAVA · SPRING BOOT · GO</strong><br />
 APIs, autenticação e persistência, conectadas a interfaces em React e Next.js.</p>
 
@@ -79,11 +83,18 @@ Registro de ninhos, visitas, transferências e eclosões em campo. **Offline-fir
 
 ## Tecnologias e qualidade
 
-<table>
+<table width="100%">
 <tr><td width="50%" align="center"><strong>Backend</strong><br /><br /><img src="https://skillicons.dev/icons?i=java,spring,go" height="44" alt="Java, Spring Boot e Go" /></td><td width="50%" align="center"><strong>Frontend</strong><br /><br /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" height="44" alt="TypeScript, JavaScript, React e Next.js" /></td></tr>
 <tr><td align="center"><strong>Dados</strong><br /><br /><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" height="44" alt="PostgreSQL, MongoDB e Firebase" /></td><td align="center"><strong>Ferramentas e testes</strong><br /><br /><img src="https://skillicons.dev/icons?i=git,github,vitest" height="44" alt="Git, GitHub e Vitest" /><br />JUnit · Mockito · testes de integração</td></tr>
 </table>
 
+## Atividade recente
+
+<p align="center">
+<img src="atividade.svg" width="100%" alt="114 contribuições entre 10 de setembro e 10 de outubro de 2026; consulta de 10/10/2026" />
+</p>
+
+<sub>Consulta do calendário do perfil em 10/10/2026. Este gráfico é estático; o calendário oficial abaixo dos projetos fixados continua atualizado pelo GitHub.</sub>
 ## Linguagens no portfólio
 
 <p align="center">
@@ -108,3 +119,5 @@ Registro de ninhos, visitas, transferências e eclosões em campo. **Offline-fir
 <a href="https://www.linkedin.com/in/caio-fabio-souza">LinkedIn</a> · <a href="https://github.com/CaioFabio893?tab=repositories">Todos os repositórios</a></p>
 
 <sub>As tecnologias apresentadas estão presentes no portfólio. O uso de IA, quando aplicável, está registrado na documentação dos respectivos projetos.</sub>
+
+

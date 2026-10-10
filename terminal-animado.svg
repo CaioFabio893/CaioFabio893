@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Terminal animado: Java, Spring Boot e Go conectando APIs a dados">
+<title>Caio Fábio — código, APIs e dados</title>
+<rect x="1" y="1" width="998" height="168" rx="18" fill="#0b192b" stroke="#254358" stroke-width="2"/>
+<circle cx="28" cy="24" r="5" fill="#fb7185"/><circle cx="46" cy="24" r="5" fill="#fbbf24"/><circle cx="64" cy="24" r="5" fill="#5eead4"/>
+<text x="92" y="29" fill="#a8bfd3" font-size="14" font-family="monospace">caio.profile / backend</text>
+<line x1="20" y1="42" x2="980" y2="42" stroke="#254358"/>
+<text x="28" y="88" fill="#5eead4" font-size="24" font-family="monospace">&gt; Java · Spring Boot · Go</text>
+<rect x="418" y="69" width="11" height="25" fill="#67e8f9"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
+<text x="28" y="130" fill="#a8bfd3" font-size="18" font-family="monospace">código + testes + documentação</text>
+<g fill="#0f263d" stroke="#254358" stroke-width="2"><rect x="570" y="67" width="95" height="55" rx="12"/><rect x="710" y="67" width="95" height="55" rx="12"/><rect x="850" y="67" width="120" height="55" rx="12"/></g>
+<g fill="#67e8f9" font-family="monospace" font-size="19" text-anchor="middle"><text x="618" y="101">&lt;/&gt;</text><text x="758" y="101">API</text><text x="910" y="101">DADOS</text></g>
+<path d="M665 95H710M805 95H850" stroke="#254358" stroke-width="2"/>
+<circle cx="665" cy="95" r="4" fill="#5eead4"><animate attributeName="cx" values="665;710;710" keyTimes="0;0.8;1" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="805" cy="95" r="4" fill="#67e8f9"><animate attributeName="cx" values="805;850;850" keyTimes="0;0.8;1" dur="2s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+</svg>
